@@ -1,8 +1,8 @@
 [web安全学习笔记](https://websec.readthedocs.io/zh/latest/index.html)
 
-![afa2153f4366d7f188b6db22dc9a244](C:\Users\16159\AppData\Roaming\Typora\typora-user-images\afa2153f4366d7f188b6db22dc9a244.jpg)
+![afa2153f4366d7f188b6db22dc9a244](https://github.com/JackSparrowhk/north_hack/assets/108756180/4f4c9518-4f69-4e91-821a-860bfdbd32e8)
 
-![5b53250abb86b21e61130b5645a0ed5](C:\Users\16159\AppData\Roaming\Typora\typora-user-images\5b53250abb86b21e61130b5645a0ed5.jpg)
+![5b53250abb86b21e61130b5645a0ed5](https://github.com/JackSparrowhk/north_hack/assets/108756180/ad906dec-ad30-4c1a-b72d-57862e7a2beb)
 
 # 渗透流程
 
