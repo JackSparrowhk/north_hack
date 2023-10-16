@@ -371,6 +371,10 @@ WEB服务器认为对象的最后修改时间，比如文件的最后修改时�
 
 说明：包含一个URL，用户从该URL代表的页面出发访问当前请求的页面
 
+## **13. X-Forwarded-For**
+
+说明：用来表示 HTTP 请求端真实 IP
+
 # **三、HTTP Response的Header信息**
 
 ![HTTP请求头--那些你需要记住的基础知识](https://s1.51cto.com/oss/201912/23/4a8679e65d92f9ae6dd4ea27400db789.jpeg)
