@@ -34,7 +34,8 @@ ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统
 
 Maltego
 
-![10](C:\Users\16159\AppData\Roaming\Typora\typora-user-images\10.png)
+![10](https://github.com/JackSparrowhk/north_hack/assets/108756180/2fa54ab4-cc84-4cfb-93c9-c07dc6d4054c)
+
 
 ## 1. 基本介绍
 
