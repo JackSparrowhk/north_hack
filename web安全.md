@@ -609,7 +609,8 @@ http://stool.chinaz.com/same
 
 网站输入http://sqli即可访问到
 
-![image-20230901215605803](C:\Users\16159\AppData\Roaming\Typora\typora-user-images\image-20230901215605803.png)
+![image-20230901215605803](https://github.com/JackSparrowhk/north_hack/assets/108756180/bfce9bdc-c79f-4a2d-9067-78110a34a369)
+
 
 ### 1.1 漏洞概述
 
